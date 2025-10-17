@@ -1,0 +1,6 @@
+pandas
+numpy
+nltk
+gradio
+scikit-learn
+streamlit
